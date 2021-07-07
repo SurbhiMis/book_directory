@@ -1,2 +1,2 @@
 # book_directory
-Express JS, React JS
+Express JS, MySQL
